@@ -1,0 +1,27 @@
+Algoritmo "Aula 05 entrada de dados "
+// Autor(a)    : Diego Nolan
+// Data atual  : 28/05/23
+Var
+
+idade: inteiro
+salario1, salario2:real
+nome: Caracter
+
+Inicio
+
+Escreval ("digite seu nome")
+leia(nome)
+escreva ("digite sua idade")
+leia (idade)
+escreval ("Digite o valor que voce Ganhou nos dois ultimos meses")
+leia (salario1)
+Leia(salario2)
+
+
+Escreval ("Dados Digitados:")
+escreval ("Nome ",nome)
+Escreval ("idade:", Idade)
+escreval("salario1:", salario1:8:2)
+Escreva ("Salario2:",salario2 :8:2)
+
+Fimalgoritmo
